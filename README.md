@@ -19,5 +19,5 @@ LazyTrader is a simple Python app that helps traders manage a **checklist**, cal
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/YourUsername/LazyTrader.git
+git clone https://github.com/k1ndofthought/LazyTrader.git
 cd LazyTrader
